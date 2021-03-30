@@ -16,10 +16,6 @@ DFS and BFS in python in which you can be the one to decide which graph you want
 
 **Which in excel or others should look like this**
 
-###Images
-
-Image:
-
 ![](https://i.imgur.com/pM1Qs9R.png "Excel CSV")
 
 The correct way to edit the CSV is as follows
@@ -43,3 +39,4 @@ h,0,0,0,0,0,0,0,1,0,0,0
 Manual entry is done only by following the steps, which are indicated when selecting the option
 
 ###End
+that's all
