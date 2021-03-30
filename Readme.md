@@ -38,5 +38,3 @@ h,0,0,0,0,0,0,0,1,0,0,0
 
 Manual entry is done only by following the steps, which are indicated when selecting the option
 
-###End
-that's all
